@@ -1,3 +1,8 @@
+DOMAIN DATA SCIENCE
+
+BATCH AUGUST
+
+
 OVERVIEW
 
 
@@ -19,9 +24,11 @@ MACHINE LEARNING MODEL BUILDING:
 In this section, we build a predictive model using machine learning algorithms such as logistic regression. The model is trained on a portion of the dataset and evaluated on another portion to assess its performance.
 
 RESULTS:
+
 The final model achieves 87% on the test set, demonstrating its effectiveness in predicting passenger survival.
 
 CONCLUSION
+
 Through this project, I have successfully analyzed the Titanic dataset and built a machine-learning model to predict passenger survival. This project serves as a demonstration of data preprocessing, exploratory data analysis, and predictive modeling techniques.
 
 Thank you for your interest in the Titanic Survival Detection project!
